@@ -68,4 +68,43 @@ ems-application/
 │
 └── README.md
 ```
+---
+
+## Installation
+
+### Backend
+```
+cd backend
+mvn spring-boot:run
+```
+### Frontend
+```
+cd frontend
+npm install
+npm start
+```
+
+## API Example
+```
+POST /api/auth/login
+POST /api/auth/register
+
+GET /api/employees
+POST /api/employees
+PUT /api/employees/{id}
+DELETE /api/employees/{id}
+```
+## Purpose
+
+This project demonstrates:
+
+Full-stack enterprise application development
+Secure API design using Spring Security and JWT
+Role-based authorization implementation
+Clean architecture with DTO pattern
+Database interaction using JPA/Hibernate
+
+## Author
+
+Gnanaparvathan Sabapathy
 
