@@ -1,4 +1,3 @@
-```
 # Employee Management System (React + Spring Boot + MySQL)
 
 A secure full-stack enterprise-style application for managing employee records, built using React,
