@@ -98,11 +98,11 @@ DELETE /api/employees/{id}
 
 This project demonstrates:
 
-Full-stack enterprise application development
-Secure API design using Spring Security and JWT
-Role-based authorization implementation
-Clean architecture with DTO pattern
-Database interaction using JPA/Hibernate
+ - Full-stack enterprise application development
+ - Secure API design using Spring Security and JWT
+ - Role-based authorization implementation
+ - Clean architecture with DTO pattern
+ - Database interaction using JPA/Hibernate
 
 ## Author
 
